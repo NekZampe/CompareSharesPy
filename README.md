@@ -28,6 +28,10 @@ Welcome to the Yahoo Finance Stock Analyzer, a Python program designed to fetch 
 
 We welcome contributions from the open-source community to enhance and expand the functionality of this program. Please feel free to fork the repository, make your improvements, and submit pull requests.
 
+**Example Output:**
+![Figure_1](https://github.com/NekZampe/CompareSharesPy/assets/127551641/231577ff-4200-41ef-a67c-56e9d97c12f9)
+![Graph](https://github.com/NekZampe/CompareSharesPy/assets/127551641/b2822e83-7c04-4ec7-8ec6-6b0693ef7bed)
+
 **Issues and Support:**
 
 If you encounter any issues, have questions, or need assistance, please open an issue in the GitHub repository's "Issues" section. We'll do our best to provide support and address any problems you encounter.
