@@ -30,6 +30,7 @@ We welcome contributions from the open-source community to enhance and expand th
 
 **Example Output:**
 ![Figure_1](https://github.com/NekZampe/CompareSharesPy/assets/127551641/231577ff-4200-41ef-a67c-56e9d97c12f9)
+
 ![Graph](https://github.com/NekZampe/CompareSharesPy/assets/127551641/b2822e83-7c04-4ec7-8ec6-6b0693ef7bed)
 
 **Issues and Support:**
