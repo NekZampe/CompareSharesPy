@@ -35,6 +35,4 @@ We welcome contributions from the open-source community to enhance and expand th
 
 **Issues and Support:**
 
-If you encounter any issues, have questions, or need assistance, please open an issue in the GitHub repository's "Issues" section. We'll do our best to provide support and address any problems you encounter.
-
-Explore the world of stock analysis with the Yahoo Finance Stock Analyzer. Download now and start making informed investment decisions with confidence!
+If you encounter any issues, have questions, or need assistance, please open an issue in the GitHub repository's "Issues" section. I'll do my best to provide support and address any problems you encounter.
